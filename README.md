@@ -1,2 +1,4 @@
-# JAVA-DSA-BFS-GRAPH-TRAVERSAL
-Java DSA Graph Traversal Through BFS To Find The Shortest Route Between Cities.
+# JAVA.
+# DSA.
+# BFS-GRAPH-TRAVERSAL
+This Is Java DSA Graph Traversal project Through BFS To Find The Shortest Route Between Cities.
