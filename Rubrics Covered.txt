@@ -1,0 +1,37 @@
+RUBRICS COVERED:
+Graph Creation:
+● The code correctly creates a graph representation of cities and their connections (both 
+road and aerial routes).
+● The graph includes all cities and their corresponding edges based on the given input.
+● The graph representation is appropriate for efficient traversal.
+BFS Implementation:
+● The Breadth-First Search (BFS) algorithm is correctly implemented for traversing the 
+graph.
+● BFS is appropriately applied to explore cities and reach the destination within the 
+specified constraints.
+● The algorithm handles both road and aerial routes seamlessly.
+Input Handling :
+● The program correctly parses and handles input for the number of test cases, the 
+number of cities, and aerial routes.
+● Input validation is implemented to handle potential errors or unexpected input 
+formats.
+● The program gracefully handles different input scenarios.
+Output Generation :
+● The code produces the correct output, displaying the minimum number of days 
+required to travel from city 1 to city N.
+● The output format is clear and consistent across test cases.
+● Output for both the provided example and additional test cases is accurate.
+Code Organization and Readability :
+● The code is well-organized, with clear and meaningful variable names.
+● Functions and logic are modular, promoting readability and maintainability.
+● There are sufficient code comments explaining complex sections of the code.
+Robustness and Error Handling :
+● The code handles edge cases and unexpected scenarios gracefully.
+● There are appropriate error messages or feedback for users in case of invalid inputs 
+or exceptional conditions.
+● The program does not crash unexpectedly.
+Code Comments :
+● Code comments are present throughout the code, explaining key sections, 
+algorithmic steps, and any non-trivial logic.
+● Comments enhance code readability and provide additional insights into the 
+implementation
